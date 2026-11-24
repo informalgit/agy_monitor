@@ -1,0 +1,5 @@
+__pycache__/
+log.txt
+position.json
+last_snapshot.json
+config.local.json
